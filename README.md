@@ -1,2 +1,6 @@
-# robot-scenes-site
-Robot-Scenes website and privacy policy
+# Escape Circuit website
+
+Official support page and privacy policy for Escape Circuit by BoolLab Studio.
+
+- Website: `index.html`
+- Privacy policy: `privacy.html`
